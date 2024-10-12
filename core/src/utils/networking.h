@@ -7,6 +7,7 @@
 #include <memory>
 #include <thread>
 #include <condition_variable>
+#include <stdexcept>
 
 #ifdef _WIN32
 #include <WinSock2.h>
